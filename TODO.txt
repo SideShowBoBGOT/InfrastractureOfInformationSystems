@@ -1,0 +1,7 @@
+1) Як кожується маска в IP-адресі, що таке range-іп-адрес?
+2) Вирівнювання тексту по ширині
+3) 3306 - в якому протоколі-пакеті вказується цей порт?
+
+https://www.practicalnetworking.net/stand-alone/vlans/
+https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
